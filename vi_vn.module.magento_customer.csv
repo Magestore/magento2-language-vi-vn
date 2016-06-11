@@ -428,7 +428,7 @@
 "Show Tax/VAT Number","Afficher le numéro de TVA intracommunautaire",module,Magento_Customer
 "Show VAT Number on Frontend","Afficher le numéro de TVA sur le frontend",module,Magento_Customer
 "Show VAT Number on Storefront","Afficher le numéro de TVA sur la vue client",module,Magento_Customer
-"Sign In","Connexion",module,Magento_Customer
+"Sign In","Đăng nhập",module,Magento_Customer
 "Sign-in Information","Informations de connexion",module,Magento_Customer
 "Sign Out","Se déconnecter",module,Magento_Customer
 "Sign Up for Newsletter","Abonnez-vous à la lettre d'information",module,Magento_Customer
