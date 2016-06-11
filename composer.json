@@ -21,6 +21,5 @@
 		"email": "trungthin.luong@trueplus.vn",
 		"homepage": "https://www.facebook.com/trungthin",
 		"role": "Developer"
-	}],
-	"extra": {"map": [["*", "magestore/magento2-language-vi-vn"]]}
+	}]
 }
