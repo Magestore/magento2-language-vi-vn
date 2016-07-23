@@ -2401,7 +2401,7 @@ Documents,Documents
 "A joined field with this alias is already declared.","Trường với khai báo đã được khai báo."
 "Invalid joint fields","Trường không đúng"
 "A joint field with this alias (%1) is already declared.","Trường với khai báo (%1) đã được khai báo."
-"Data integrity: No header row found for attributeTính toàn vẹn dữ liệu: Không tìm thấy tiêu đề cho thuộc tính"
+"Data integrity: No header row found for attribute","Tính toàn vẹn dữ liệu: Không tìm thấy tiêu đề cho thuộc tính"
 "Invalid attribute name: %1","Tên thuộc tính không đúng: %1"
 "Invalid character encountered in increment ID: %1","Ký tự trong ID tăng thêm không đúng: %1"
 "The current module pathname is undefined.","Tên đường dẫn mô-đun hiện tại không xác định."
